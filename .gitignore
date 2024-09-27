@@ -1,0 +1,9 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+.idea/
+.venv/
+
+.DS_Store
+*.log#
